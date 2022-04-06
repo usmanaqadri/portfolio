@@ -263,7 +263,7 @@ section {
 
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
-  height: 90%;
+  height: 75%;
   width: 68%;
   margin-left: 4rem;
   background-color: var(--color-black);
@@ -272,10 +272,10 @@ section {
 }
 
 .header-content .left-header .image img {
-  width: 90%;
+  width: 95%;
   height: auto;
   margin-top: 2rem;
-  margin-left: 2rem;
+  margin-left: 1rem;
   -o-object-fit: cover;
      object-fit: cover;
   -webkit-transition: all .4s ease-in-out;
