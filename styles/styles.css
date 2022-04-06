@@ -272,8 +272,10 @@ section {
 }
 
 .header-content .left-header .image img {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: auto;
+  margin-top: 2rem;
+  margin-left: 2rem;
   -o-object-fit: cover;
      object-fit: cover;
   -webkit-transition: all .4s ease-in-out;
